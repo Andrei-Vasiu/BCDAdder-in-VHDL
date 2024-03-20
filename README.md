@@ -1,0 +1,1 @@
+Design a BCD adder which adds two BCD numbers(each of range 0 to 9) and produces the sum in BCD form(e.g., if it adds 9 (1001) and 8(1000) the result would be 17(1 0111). Implement such a BCD adder using a 4-bit binary adders and appropiate control circuitry.
